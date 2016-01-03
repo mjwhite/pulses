@@ -2,8 +2,9 @@
 % Pulse sequence graphics
 %
 % This file is part of Mark White's PhD thesis.
-% MJ White <mark@celos.net> 2004
-% $Id: seq.mp 32 2004-11-22 18:37:47Z mark $
+% 
+% Copyright (c) 2004 Mark J White <mark@celos.net>
+% Distributed under 2-clause BSD licence; no warranty. See COPYING.txt.
 % ----------------------------------------------------------------------
 
 input pulses.mp

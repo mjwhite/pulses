@@ -3,8 +3,9 @@
 % (see seq.mp for examples of use)
 %
 % This file is part of Mark White's PhD thesis.
-% MJ White <mark@celos.net> 2004
-% $Id: pulses.mp 33 2004-11-22 18:38:31Z mark $
+% 
+% Copyright (c) 2004 Mark J White <mark@celos.net>
+% Distributed under 2-clause BSD licence; no warranty. See COPYING.txt.
 % ----------------------------------------------------------------------
 
 % ----------------------------------------------------------------------
